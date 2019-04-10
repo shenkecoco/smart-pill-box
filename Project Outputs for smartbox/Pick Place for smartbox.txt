@@ -1,0 +1,52 @@
+Altium Designer Pick and Place Locations
+D:\UserData\My Documents\WeChat Files\wxid_4kxdh9r1aado11\FileStorage\File\2019-04\smart pill box（2）\Project Outputs for smartbox\Pick Place for smartbox.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       10/04/19
+Time:       10:16
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment         Layer       Footprint       Center-X(mm) Center-Y(mm) Rotation Description   
+M1         cc2540          TopLayer    CC25XXSM        58.9050      69.6390      360      ""            
+U2         AMS1117_3.3V    BottomLayer SOT-223         58.2710      76.7220      270      AMS1117_3.3V  
+U1         MCP73831        BottomLayer SOT23-5N        58.6740      66.9290      360      "charge IC"   
+S8         SKHHBVA010      TopLayer    S-SKHHBVA010    136.6000     67.5640      180      轻触按键          
+S7         SKHHBVA010      TopLayer    S-SKHHBVA010    163.6892     67.5641      360      轻触按键          
+S6         SKHHBVA010      TopLayer    S-SKHHBVA010    136.6000     75.4020      180      轻触按键          
+S5         SKHHBVA010      TopLayer    S-SKHHBVA010    163.6892     75.4021      360      轻触按键          
+S4         SKHHBVA010      TopLayer    S-SKHHBVA010    82.2960      67.5640      360      轻触按键          
+S3         SKHHBVA010      TopLayer    S-SKHHBVA010    109.4740     67.5640      360      轻触按键          
+S2         SKHHBVA010      TopLayer    S-SKHHBVA010    82.4229      75.4020      180      轻触按键          
+S1         SKHHBVA010      TopLayer    S-SKHHBVA010    109.5260     75.4020      360      轻触按键          
+R12        1KF             BottomLayer R0603           61.8490      71.8820      360      贴片电阻-通用       
+R11        470RF           BottomLayer R0603           55.5498      63.7540      360      贴片电阻-通用       
+R10        470RF           BottomLayer R0603           58.9280      63.8810      180      贴片电阻-通用       
+R9         R0603-15KF      BottomLayer R0603           61.7220      66.0310      270      贴片电容-通用       
+R8         1KF             TopLayer    R0603           129.3720     67.1830      270      贴片电阻-通用       
+R7         1KF             TopLayer    R0603           155.8290     68.3260      270      贴片电阻-通用       
+R6         1KF             TopLayer    R0603           129.4130     74.1680      90       贴片电阻-通用       
+R5         1KF             TopLayer    R0603           155.8290     75.6510      90       贴片电阻-通用       
+R4         1KF             BottomLayer R0603           75.3110      69.4690      270      贴片电阻-通用       
+R3         1KF             BottomLayer R0603           102.3620     70.8660      270      贴片电阻-通用       
+R2         1KF             BottomLayer R0603           76.5810      75.6920      270      贴片电阻-通用       
+R1         1KF             BottomLayer R0603           102.3620     75.1840      90       贴片电阻-通用       
+K1         SS-12D00        TopLayer    SS-12D00        45.7200      79.3750      270      SS-12D00      
+J3         USB-MINI-SOCKET BottomLayer MICRO-USB_-_5.9 47.8925      64.0592      90       USB-A卧式插座     
+J2         J-D2.54-1*2     TopLayer    D2.54-1*2P      45.3390      72.3900      270      J-D2.54-1*2   
+J1         J-D2.54-1*3     BottomLayer D2.54-1*3P      47.7520      84.3280      0        J-D2.54-1*3   
+D5         LED0603G        BottomLayer D-LED0603G      58.6740      71.8820      360      贴片二极管-LED     
+D4         ESDA_TR1/0603   TopLayer    HS_0603D        49.1490      71.6915      0        "Zener Diode" 
+D3         ESDA_TR1/0603   TopLayer    HS_0603D        48.8950      69.9770      0        "Zener Diode" 
+D2         LED0603G        BottomLayer D-LED0603G      55.2450      66.8020      90       贴片二极管-LED     
+D1         LED0603G        BottomLayer D-LED0603G      62.3570      63.6270      180      贴片二极管-LED     
+C7         104K50V         BottomLayer C0603           48.2600      77.5970      90       贴片电容-陶瓷       
+C6         106K50V         BottomLayer C0603           49.7840      77.5970      270      贴片电容-陶瓷       
+C5         104K50V         BottomLayer C0603           63.3730      74.8030      90       贴片电容-陶瓷       
+C4         106K50V         BottomLayer C0603           58.8010      69.9770      360      贴片电容-陶瓷       
+C3         104K50V         BottomLayer C0603           55.3720      71.8820      360      贴片电容-陶瓷       
+C2         106K50V         BottomLayer C0603           55.3720      69.9770      180      贴片电容-陶瓷       
+C1         475K16V         BottomLayer C0603           61.9760      69.9770      180      贴片电容-陶瓷       
