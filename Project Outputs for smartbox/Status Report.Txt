@@ -1,10 +1,9 @@
-Output: Generates pick and place files
-Type  : Pick Place
+Output: Bill of Materials
+Type  : BOM
 From  : Variant [[No Variations]] of Project [smartbox.PrjPCB]
-   Generated File[Pick Place for smartbox.txt]
 
 
-Files Generated   : 1
+Files Generated   : 0
 Documents Printed : 0
 
-Finished Output Generation At 10:16:27 On 2019/4/10
+Finished Output Generation At 19:25:26 On 2019/4/10
