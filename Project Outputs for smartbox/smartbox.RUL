@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: D:\UserData\My Documents\WeChat Files\wxid_4kxdh9r1aado11\FileStorage\File\2019-04\smart pill box£¨2£©\smartbox.PcbDoc
+DRC Rules Export File for PCB: D:\epic\git\smart pill box\smartbox.PcbDoc
 RuleKind=Width|RuleName=pow|Scope=Board|Minimum=10.00
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
 RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00

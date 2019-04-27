@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: smartbox.PcbDoc   2019/4/10  10:14:16
+NCDrill File Report For: smartbox.PcbDoc   2019/4/27  18:39:43
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -12,9 +12,9 @@ T1      12mil (0.305mm)                                           Round         
 T2      16mil (0.4mm)                                             Slot              2         PTH        0.00inch (0.00mm)
 T3      24mil (0.6mm)                                             Round             3         PTH        0.00inch (0.00mm)
 T4      33mil (0.838mm)                                           Round             5         PTH        0.00inch (0.00mm)
-T5      39mil (1mm)                                               Round             32        PTH        0.00inch (0.00mm)
+T5      51mil (1.3mm)                                             Round             16        PTH        0.00inch (0.00mm)
 T6      20mil (0.5mm)                                             Round             2         NPTH       0.00inch (0.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              134
+Totals                                                                              118
 
 Total Processing Time (hh:mm:ss) : 00:00:00
